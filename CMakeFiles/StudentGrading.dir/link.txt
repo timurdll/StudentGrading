@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/StudentGrading.dir/src/Main.cpp.o CMakeFiles/StudentGrading.dir/src/Grading.cpp.o CMakeFiles/StudentGrading.dir/src/QuickSort.cpp.o CMakeFiles/StudentGrading.dir/src/Student.cpp.o -o StudentGrading 

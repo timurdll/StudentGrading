@@ -1,0 +1,3 @@
+/home/timur/Desktop/StudentGrading/build/CMakeFiles/StudentGrading.dir
+/home/timur/Desktop/StudentGrading/build/CMakeFiles/edit_cache.dir
+/home/timur/Desktop/StudentGrading/build/CMakeFiles/rebuild_cache.dir
